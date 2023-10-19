@@ -1,0 +1,33 @@
+header
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 5px;
+}
+
+header ul
+{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    gap: 2.5em;
+}
+
+.list-button
+{
+    display: flex;
+    align-items: center;
+    padding: 2em;
+}
+
+#button-header
+{
+    border-radius: 0.4em;
+    padding: 0.8em;
+    width:3.8em;
+    align-self: center;
+    background-color:#ADE2DF ;
+}

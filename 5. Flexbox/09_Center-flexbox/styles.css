@@ -1,0 +1,23 @@
+body
+{
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+h1
+{
+    font-size: 1.7em;
+}
+div.card
+{
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.5em;
+    box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.3);
+    width: auto;
+    padding: 0.5EM;
+    margin: 0.5EM;
+
+}

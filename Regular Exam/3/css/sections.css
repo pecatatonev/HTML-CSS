@@ -1,0 +1,205 @@
+.banner
+{
+    background-color:#ADE2DF ;
+    text-align: center;
+    padding: 5em;
+}
+
+.banner h2
+{
+    font-size: 3em;
+    padding-bottom: 0.3em;
+}
+
+.banner p
+{
+    font-size: 1em;
+    padding-bottom: 1.5em;
+}
+
+.buttons
+{
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    gap: 1em;
+}
+
+.buttons a
+{
+    text-decoration: none;
+    color: #fff;
+    background-color: #000000;
+    border: 0.1em solid #000000;
+    padding: 1.1em 1.8em;
+    border-radius: 0.5em;
+}
+
+/* Start secont section */
+
+.info
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3em;
+    padding: 5em;
+}
+
+.info div
+{
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    border-left: 1px solid #E4E4E4;
+    border-right: 1px solid #E4E4E4 ;
+    text-align: center;
+    margin: 2em;
+}
+
+.info div h3
+{
+    font-size: 2.5em;
+}
+
+/* Start third section */
+
+.everything
+{
+    background-color:#ADE2DF;
+    display: flex;
+    align-items: center;
+    gap: 8em;
+}
+
+.everything img
+{
+    border: 0.3em dashed #98B8B6;
+    padding: 2em;
+}
+
+.everything h2
+{
+    font-size: 4em;
+    padding-bottom: 0.4em;
+}
+
+.everything h4{
+    padding-bottom: 0.3em;
+    font-size: 1.2em;
+}
+
+.everything p
+{
+    padding-bottom: 1em;
+}
+
+.everything a
+{
+    color: #4C6360;
+}
+
+.everything i
+{
+    text-decoration: underline;
+
+}
+
+/* Start forth section */
+
+.plans
+{
+    height: 600px;
+    background-color:#F3F5FA ;
+}
+
+.plans h3,
+.plans h2
+{
+    text-align: center;
+}
+
+.plans span
+{
+    font-size: 2.5em;
+    font-weight: 600;
+}
+
+.titleandbutton
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.titleandbutton a
+{
+    border-radius: 0.4em;
+    padding: 0.8em;
+    width:7em;
+    align-self: center;
+    background-color:#ADE2DF;
+    margin: 2em;
+    text-decoration: none;
+    color: #000000;
+    text-align: center;
+}
+    
+.plansfee
+{
+    display: flex;
+    border: 0.1em solid #E4E4E4;
+    border-radius: 0.5em;
+    background-color: white;
+}
+
+.boxfee
+{
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+.boxfee ul
+{
+    border-top: 0.1em solid #E4E4E4;
+    padding-bottom: 2em;
+}
+
+.boxfee a
+{
+    text-decoration: none;
+    color: #000000;
+    border: 0.1em solid #ADE2DF;
+    border-radius: 0.5em;
+    background-color: #ADE2DF;
+    text-align: center;
+    padding: 1em;
+    font-weight: 500;
+}
+
+
+.expanddiv
+{
+    display: flex;
+    flex-direction: column;
+    padding: 1em;
+    gap: 1em;
+    background-color: #ADE2DF;
+
+}
+.expand
+{
+    text-decoration: none;
+    color: #fff;
+    border: 0.1em solid #000000;
+    border-radius: 0.5em;
+    background-color: #000000;
+    text-align: center;
+    padding: 1em;
+    font-weight: 500;
+}
